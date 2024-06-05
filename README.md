@@ -1,5 +1,7 @@
 # Beecrowd 🐝
 
+My profile: https://judge.beecrowd.com/pt/profile/797636
+
 ## Sobre 🇧🇷
 - Repositório que contém as minhas soluções de exercícios propostos pela plataforma [Beecrowd](https://beecrowd.com/)
 - Plataforma utilizada pela faculdade a qual frequento para facilitar o aprendizado de linguagens de programação
