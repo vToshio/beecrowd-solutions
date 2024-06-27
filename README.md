@@ -2,7 +2,7 @@
 
 My profile: https://judge.beecrowd.com/pt/profile/797636
 
-## About 
+## About 🇺🇸
 - Repository that contains all my solutions to exercises proposed by the [Beecrowd](https://beecrowd.com)
 - Platform utilized during my collage graduation to approach an "easy and friendly" way to learn Programming Languages
 - Date of first contatc with the platform: 08/08/2023 - 2² Period - Programming Languages I - C Language
