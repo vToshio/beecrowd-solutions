@@ -1,13 +1,23 @@
 # Beecrowd 🐝
 
-My profile: https://judge.beecrowd.com/pt/profile/797636
+Formerly known as URI Online Judge (University of Rio de Janeiro Online Judge)
 
-## About 🇺🇸
-- Repository that contains all my solutions to exercises proposed by the [Beecrowd](https://beecrowd.com)
-- Platform utilized during my collage graduation to approach an "easy and friendly" way to learn Programming Languages
-- Date of first contatc with the platform: 08/08/2023 - 2² Period - Programming Languages I - C Language
+An online platform of competitive programming, which offers a variety of coding challenges and problems that users can solve in different programming languages, like C, Java, Python, GO and many others!
 
-## Sobre 🇧🇷
-- Repositório que contém as minhas soluções de exercícios propostos pela plataforma [Beecrowd](https://beecrowd.com/)
-- Plataforma utilizada pela faculdade a qual frequento para facilitar o aprendizado de linguagens de programação
-- Início da utilização da plataforma: 08/08/2023 - 2°período - Linguagem de Programação I - Linguagem C
+This repository contains solutions to various programming problems that I have solved over the years during my studies at [FHO | Uniararas](www.fho.edu.br) and through self-directed learning.
+
+- [My Beecrowd Profile](https://judge.beecrowd.com/pt/profile/797636)
+
+## Solutions
+
+### 1 - Begginer
+
+[[C99]](https://github.com/vToshio/beecrowd-solutions/tree/main/1%20-%20Iniciante/C99) [[Python 3.11]](https://github.com/vToshio/beecrowd-solutions/tree/main/1%20-%20Iniciante/Python%203.11)
+
+### 2 - AD-HOC
+
+[[C99]](https://github.com/vToshio/beecrowd-solutions/tree/main/2%20-%20AD-HOC/C99)
+
+### 3 - Strings
+
+[[C99]](https://github.com/vToshio/beecrowd-solutions/tree/main/2%20-%20AD-HOC/C99) [[Python 3.11]](https://github.com/vToshio/beecrowd-solutions/tree/main/2%20-%20AD-HOC/C99)
