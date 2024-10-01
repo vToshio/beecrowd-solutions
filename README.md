@@ -16,7 +16,7 @@ This repository contains solutions to various programming problems that I have s
 
 ### 2 - AD-HOC
 
-[[C99]](https://github.com/vToshio/beecrowd-solutions/tree/main/2%20-%20AD-HOC/C99)
+[[C99]](https://github.com/vToshio/beecrowd-solutions/tree/main/2%20-%20AD-HOC/C99) [[Python 3.11]](https://github.com/vToshio/beecrowd-solutions/tree/main/2%20-%20AD-HOC/Python%203.11)
 
 ### 3 - Strings
 
